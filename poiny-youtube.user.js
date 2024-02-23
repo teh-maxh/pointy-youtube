@@ -5,8 +5,8 @@
 // @description	Give Youtube non-rounded corners
 // @author		maxh
 // @match		*://*.youtube.com/*
-// @icon         https://raw.githubusercontent.com/teh-maxh/pointy-youtube/icon.png
-// @grant        none
+// @icon		https://github.com/teh-maxh/pointy-youtube/blob/main/icon.png?raw=true
+// @grant		none
 // @homepage	https://www.maxh.name/projects/pointy-youtube
 // ==/UserScript==
 
